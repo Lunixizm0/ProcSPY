@@ -109,13 +109,3 @@ ProcSpy-GUI/
 
 ### 📁 **logs/**
 - Uygulama log dosyaları
-
-## Geliştirme Sırası
-
-1. **Temel yapı kurulumu** (main.py, requirements.txt)
-2. **GUI iskelet** (main_window.py, tabs)
-3. **Windows API wrapper'ları** (utils/windows_api.py)
-4. **Detector sınıfları** (camera_detector.py, microphone_detector.py)
-5. **Background monitoring** (background_monitor.py)
-6. **GUI entegrasyonu** ve test
-7. **Polish & optimization**
